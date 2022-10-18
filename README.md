@@ -34,7 +34,7 @@ The only other setup where White has a guaranteed first-move advantage is this v
 1) White advantage when Black decides on White's setup first and White decides on Black's setup: White always has a sizeable advantage
 2) White advantage when White decides on Black's setup first and Black decides on Whites's setup: Black almost always has an advantage (the first move advantage helps White to not always be worse)
 
-Therefore, it is beneficial to have the last word, even if the opponent can try to mess up your own position however they like. There are no setups that are so bad that the opponent couldn't find a setup for you that is pretty bad against what he chose for you.
+Therefore, it is beneficial to have the last word, even if the opponent can try to mess up your own position however they like. There are no setups that are so bad that the opponent couldn't find a setup for you that is pretty bad against what you chose for them.
 
 Furthermore, I analyzed the **importance of undefended pawns in the starting position** on its fairness. At first glance, it doesn't seem to have a large impact on the evaluations, even if only one side had weaknesses.
 If that was the case, however, it had an impact on the best opening moves for White.

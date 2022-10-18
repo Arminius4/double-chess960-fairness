@@ -1,5 +1,6 @@
 # double-chess960-fairness
 Analysis of engine evaluations of randomized chess starting positions and how to improve fairness. Some positions are already winning/losing for White.
+Analysis for an [answer on StackExchange][6].
 
 **Summary of results regarding DFRC fairness:**
 =================================================================
@@ -92,3 +93,4 @@ The general findings should however be valid.
   [3]: https://lichess.org/analysis/standard/bbnrqkrn/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-_0_1#0
   [4]: https://lichess.org/analysis/standard/bbrqnnkr/pppppppp/8/8/8/8/PPPPPPPP/BQRBNNKR
   [5]: https://tcec-chess.com/misc/dfrc/DFRC_depth20.csv.xz
+  [6]: https://chess.stackexchange.com/questions/40800/chess960-can-black-profit-by-being-allowed-to-choose-a-custom-setup/
